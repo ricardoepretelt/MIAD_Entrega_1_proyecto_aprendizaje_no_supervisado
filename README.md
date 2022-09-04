@@ -22,3 +22,4 @@ Contenido:
 
 - Descripción de los datos
 - Exploración de los datos
+- Entrega 1 Proyecto: Documento pdf
